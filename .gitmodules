@@ -1,0 +1,6 @@
+[submodule "themes/tracks"]
+	path = themes/tracks
+	url = https://github.com/aerohub/phugo.git
+[submodule "themes/phugo"]
+	path = themes/phugo
+	url = https://github.com/aerohub/phugo.git
